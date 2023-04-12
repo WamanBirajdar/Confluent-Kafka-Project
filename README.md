@@ -25,4 +25,10 @@ confluentApiKey = ""
 confluentSecret = ""
 ```
 ### Producer Code
+```
+python producer.py run
+```
 ### Consumer Code
+```
+python consumer.py run
+```
