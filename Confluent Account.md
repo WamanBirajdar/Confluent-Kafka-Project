@@ -1,4 +1,4 @@
-# kafka-tutorial
+# Confluent-kafka
 
 To truly tap into Kafka, you need Confluent
 You love Apache Kafka®, but not managing it. Cloud-native, complete, and fully managed service goes above & beyond Kafka so your best people can focus on delivering value to your business.
