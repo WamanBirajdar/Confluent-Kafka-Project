@@ -5,6 +5,13 @@
 1. Confluent login
 2. requirement.txt install 
 
+***
+How to setup confluent Kafka.
+1. [Account Setup](Confluent%20Account.md)
+2. [Cluster Setup](ConfluentClusterSetup.md)
+3. [Kafka Topic](Confluent%20Topic%20Creation.md)
+4. [Obtain secrets](Kafka%20key%20and%20secrets.md)
+***
 
 
 ### Connectivity
